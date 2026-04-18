@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hodlog/.github/main/profile/wordmark-vertical-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hodlog/.github/main/profile/wordmark-vertical-light.svg">
-  <img alt="Hodlog" src="https://raw.githubusercontent.com/hodlog/.github/main/profile/wordmark-vertical-light.svg" width="480">
+  <source media="(prefers-color-scheme: dark)" srcset="./wordmark-vertical-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./wordmark-vertical-light.svg">
+  <img alt="Hodlog" src="./wordmark-vertical-light.svg" width="480">
 </picture>
 
 <br />
